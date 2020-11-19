@@ -6,4 +6,7 @@ STUDENT_COLLECTION = DB['student']
 TEACHER_COLLECTION = DB['teacher']
 BOSS_COLLECTION = DB['boss']
 
+
 RECHEDULER_COLLECTION = DB['rescheduler']
+COURSE_COLLECTION = DB['course']
+
